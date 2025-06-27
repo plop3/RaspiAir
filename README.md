@@ -15,7 +15,12 @@ Gestion de setup astrophoto
 - Antibuées
 - Park/Limits (9DOF)
 - Astrophoto
-  - CCDciel
-  - Carte du ciel
-  - Indi
-  - Phd2
+  - CCDciel https://www.ap-i.net/ccdciel/en/start
+  - Carte du ciel https://www.ap-i.net/skychart/fr/start
+  - Indi https://indilib.org/
+  - Phd2 https://openphdguiding.org/
+
+Le boitier est alimenté en 12V.
+Les fonctions Park/Limits sont assurées par le Raspberry Pi (Pas de bus I2c sur la carte SKR Pico).
+Le Raspberry est alimenté en 5V par la carte SKR Pico.
+Les fonctions focuser, antibuéees sont assurées par la carte SKR Pico.
