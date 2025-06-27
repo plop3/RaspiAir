@@ -20,7 +20,7 @@ Gestion de setup astrophoto
   - Indi https://indilib.org/
   - Phd2 https://openphdguiding.org/
 
-    Le boitier est alimenté en 12V.
-    Les fonctions Park/Limits sont assurées par le Raspberry Pi (Pas de bus I2c sur la carte SKR Pico).
-    Le Raspberry est alimenté en 5V par la carte SKR Pico.
-    Les fonctions focuser, antibuéees sont assurées par la carte SKR Pico.
+- Le boitier est alimenté en 12V.
+- Les fonctions Park/Limits sont assurées par le Raspberry Pi (Pas de bus I2c sur la carte SKR Pico).
+- Le Raspberry est alimenté en 5V par la carte SKR Pico.
+- Les fonctions focuser, antibuéees sont assurées par la carte SKR Pico.
